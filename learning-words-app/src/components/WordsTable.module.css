@@ -1,0 +1,21 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.table{
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid;
+}
+.headerRow{
+    background-color: aqua;
+}
+.headerCell{
+    border: 1px solid grey;
+}
+.row{
+    border: 1px solid
+}
+.column{
+    border: 1px solid;
+}
